@@ -24,7 +24,7 @@ class _RealtimeLocationScreenState extends State<RealtimeLocationScreen> {
   Set<gmaps.Marker> _placeMarkers = {};
 
   // Replace with your actual Google Places API key
-  final String googlePlacesApiKey = 'AIzaSyA7u52fa4UbfXrI8LPQ5gvg5tcXYmC6zeE';
+  final String googlePlacesApiKey = '';
 
   @override
   void initState() {
